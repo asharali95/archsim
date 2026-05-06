@@ -183,7 +183,26 @@ This tool answers:
 
 ## 📸 Screenshots
 
-> Add your UI images here
+### 🧭 Dashboard
+![Dashboard](screenshots/archsim-dashboard.png)
+
+### 🧱 Architecture Canvas
+![Canvas](screenshots/canvas-panel.png)
+
+### 📝 Create Simulation Profile
+![Create Profile](screenshots/create-simulation-profile-form.png)
+
+### 📊 Simulation Panel
+![Simulation Panel](screenshots/simulation-panel.png)
+
+### ⚠️ Bottleneck Detection
+![Bottleneck](screenshots/simulation-bottleneck-node-side-detail.png)
+
+### 🔍 Explore Fixes
+![Explore Fixes](screenshots/explore-fixes.png)
+
+### 📈 Simulation Profile Overview
+![Profile Overview](screenshots/simulation-profile-overview-panel.png)
 
 Suggested sections:
 - Architecture builder UI  
