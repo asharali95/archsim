@@ -2,6 +2,7 @@
 
 > A system that lets you **argue with your architecture — and win with data**
 
+This product should serve as an architecture reasoning and risk modeling platform that helps developers and software architects evaluate whether a proposed system design is appropriately sized for a given workload before building or deploying it. Instead of pretending to perfectly emulate real infrastructure, the platform should analyze architectural structure, workload characteristics, and infrastructure profiles to identify likely bottlenecks, imbalance, over-engineering, under-provisioning, scaling risks, latency pressure points, and cost inefficiencies. Its purpose is not to provide exact production guarantees, but to give engineers a fast, visual, explainable way to understand which part of their architecture is most likely to fail first, why it happens, and what tradeoffs different fixes introduce.
 ---
 
 ## 🚨 What This Repo Is
